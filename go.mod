@@ -1,4 +1,4 @@
-module github.com/quii/learn-go-with-tests
+module github.com/mgajewskik/learn-go-with-tests
 
 go 1.14
 
